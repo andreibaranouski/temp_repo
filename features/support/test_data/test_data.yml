@@ -1,0 +1,8 @@
+urls:
+  login: 'http://localhost:8081/login?from=%2F'
+  dashboard: 'http://localhost:8081/'
+
+default_user:
+  email: admin
+  pass: c3e8bf04434443d485dcc89938d4fa05
+ 

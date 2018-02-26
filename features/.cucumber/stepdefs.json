@@ -1,0 +1,264 @@
+[
+  {
+    "source": "^I am on the Login Page$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:1",
+    "steps": [
+      {
+        "name": "I am on the Login Page",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I am on the Dashboard Page$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:5",
+    "steps": [
+
+    ]
+  },
+  {
+    "source": "^I login with the valid user$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:9",
+    "steps": [
+      {
+        "name": "I login with the valid user",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I click New Job link$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:15",
+    "steps": [
+      {
+        "name": "I click New Job link",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I fill New Job Basic Info tab with data$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:19",
+    "steps": [
+      {
+        "name": "I fill New Job Basic Info tab with data",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I verify errors on New Job Basic Info tab with data$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:25",
+    "steps": [
+      {
+        "name": "I verify errors on New Job Basic Info tab with data",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I fill New Job Details tab with data$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:31",
+    "steps": [
+      {
+        "name": "I fill New Job Details tab with data",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I delete \"(.+)\" language on New Job Details tab$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:38",
+    "steps": [
+      {
+        "name": "I delete \"English\" language on New Job Details tab",
+        "args": [
+          {
+            "offset": 10,
+            "val": "English"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I verify errors on New Job Details tab with data$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:42",
+    "steps": [
+      {
+        "name": "I verify errors on New Job Details tab with data",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I fill New Job Required Skills tab with data$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:49",
+    "steps": [
+      {
+        "name": "I fill New Job Required Skills tab with data",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I verify errors on New Job Required Skills tab with data$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:55",
+    "steps": [
+      {
+        "name": "I verify errors on New Job Required Skills tab with data",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I fill New Job Confirm tab with data$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:60",
+    "steps": [
+      {
+        "name": "I fill New Job Confirm tab with data",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I verify errors on New Job Confirm tab with data$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:66",
+    "steps": [
+      {
+        "name": "I verify errors on New Job Confirm tab with data",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I click Next button on New Job page$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:71",
+    "steps": [
+      {
+        "name": "I click Next button on New Job page",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I click Jump to Job on New Job page$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:75",
+    "steps": [
+      {
+        "name": "I click Jump to Job on New Job page",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I should be taken to the Job page$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:80",
+    "steps": [
+      {
+        "name": "I should be taken to the Job page",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I click the Register Link$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:88",
+    "steps": [
+
+    ]
+  },
+  {
+    "source": "^I am on the Registration Page$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:95",
+    "steps": [
+
+    ]
+  },
+  {
+    "source": "^I fill in the values using a random profile$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:100",
+    "steps": [
+
+    ]
+  },
+  {
+    "source": "^I click submit$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:111",
+    "steps": [
+
+    ]
+  },
+  {
+    "source": "^I should see the success page$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:115",
+    "steps": [
+
+    ]
+  },
+  {
+    "source": "^I fill in the values using a default profile$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:120",
+    "steps": [
+
+    ]
+  },
+  {
+    "source": "^I should see the error on password field with text \"([^\"]*)\"$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/homepage_steps.rb:124",
+    "steps": [
+
+    ]
+  }
+]
